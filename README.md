@@ -1,2 +1,2 @@
-# LiDAR_Point_Cloud_Segmentation
-Point cloud segmentation on PandaSet using Local Feature Aggregation
+# Lidar_Segmentation
+Segmentation methods on Lidar Datasets
